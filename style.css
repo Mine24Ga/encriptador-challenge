@@ -184,3 +184,29 @@ button {
   top: 885px;
   z-index: 1000;
 }
+
+.redes {
+  display: flex;
+  position: absolute;
+  width: 1024px;
+  top: 1000px;
+  z-index: 1000;
+  padding: 10px 0;
+  background-color: #b9cde3;
+  text-align: center;
+  color: #000;
+}
+.icon {
+  width: 30px;
+  height: auto;
+}
+
+.redes a {
+  text-align: center;
+  margin: 0 4px;
+}
+.copyright {
+  margin-top: 10px;
+  font-size: 20px;
+  color: #000;
+}
