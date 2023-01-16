@@ -1,5 +1,5 @@
-#Encriptadaor de texto
+# Encriptadaor de texto
 El encriptador de texto sirve o se utiliza para codificar un mensaje o información.
-##Autor  ✒️
+## Autor  ✒️
 Minerva Guanipa
 
